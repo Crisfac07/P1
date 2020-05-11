@@ -1,1 +1,9 @@
-texto de prueba
+main()  /*visualiza los números del 0 al 9.*/
+{
+
+int digito=0, vueltas=0;
+for (; digito<=9; ) {
+printf("%d ", digito++);
+vueltas++;
+}
+}
