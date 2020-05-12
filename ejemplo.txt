@@ -1,1 +1,2 @@
 printf("hola mundo");
+printf("archivos de omision");
